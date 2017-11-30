@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace ColorOfRainbow
 {
-    class Color
+    class ProgramLauncher
     {
-        public string name { get; set; }
-        public string hexadecimal { get; set; }
-        public string rgba { get; set; }
+
     }
 }

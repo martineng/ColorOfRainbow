@@ -1,0 +1,11 @@
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\bin\Debug\ColorOfRainbow.exe.config
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\bin\Debug\ColorOfRainbow.exe
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\bin\Debug\ColorOfRainbow.pdb
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\bin\Debug\Newtonsoft.Json.dll
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\bin\Debug\Newtonsoft.Json.xml
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\obj\Debug\ColorOfRainbow.csprojResolveAssemblyReference.cache
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\obj\Debug\ColorOfRainbow.Form1.resources
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\obj\Debug\ColorOfRainbow.Properties.Resources.resources
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\obj\Debug\ColorOfRainbow.csproj.GenerateResource.Cache
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\obj\Debug\ColorOfRainbow.exe
+c:\users\martinc.a\documents\visual studio 2017\Projects\ColorOfRainbow\ColorOfRainbow\obj\Debug\ColorOfRainbow.pdb
