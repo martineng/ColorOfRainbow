@@ -32,7 +32,7 @@ namespace ColorOfRainbow
             {
                 // Retriving information into Object
                 selectedColor.name = colorDialog.Color.Name;
-                selectedColor.hexadecimal = (colorDialog.Color.ToArgb() & 0x00FFFFFF).ToString("x6");
+                selectedColor.hexadecimal = "#" + (colorDialog.Color.ToArgb() & 0x00FFFFFF).ToString("x6");
                 selectedColor.rgba = String.Format("{0},{1},{2},{3}", colorDialog.Color.R, colorDialog.Color.G, colorDialog.Color.B, colorDialog.Color.A);
 
                 // Display selected color
@@ -44,16 +44,17 @@ namespace ColorOfRainbow
             } // END IF
         } // END btnColorPicker_Click()
 
+        
+        private void btnSaveColor_Click(object sender, EventArgs e)
+        {
+            writeToJson();
+        } // END btnSaveColor_Click()
+
         // Serialize
         private void writeToJson()
         {
             string jsonInfo = JsonConvert.SerializeObject(selectedColor);
             File.WriteAllText("color.json", jsonInfo);
-        }
-
-        private void btnSaveColor_Click(object sender, EventArgs e)
-        {
-            writeToJson();
-        }
+        } // END writeToJson()
     }
 }
